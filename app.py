@@ -301,7 +301,7 @@ def download_predictions():
 def generate_alert():
     try:
         # Default sender email and password
-        sender_email = "omdarekar4211@gmail.com"
+        sender_email = "abc123@gmail.com"
         sender_password = "izls eage ipkp frcv"  # Use your App Password for Gmail
 
         # Get receiver email from the form
